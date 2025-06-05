@@ -2,27 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/blog/</loc>
+    <loc>https://1eb0hang.github.io/blog/</loc>
+    <lastmod>2025-06-05T04:36:20+02:00</lastmod>
+  </url><url>
+    <loc>https://1eb0hang.github.io/blog/temp/</loc>
+    <lastmod>2025-06-05T04:36:20+02:00</lastmod>
+  </url><url>
+    <loc>https://1eb0hang.github.io/blog/posts/</loc>
     <lastmod>2025-05-25T20:08:03+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/posts/</loc>
-    <lastmod>2025-05-25T20:08:03+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/tags/database/</loc>
+    <loc>https://1eb0hang.github.io/blog/tags/database/</loc>
     <lastmod>2023-11-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/example/</loc>
+    <loc>https://1eb0hang.github.io/blog/example/</loc>
     <lastmod>2023-11-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/tags/java/</loc>
+    <loc>https://1eb0hang.github.io/blog/tags/java/</loc>
     <lastmod>2023-11-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/example/eg/</loc>
+    <loc>https://1eb0hang.github.io/blog/example/eg/</loc>
     <lastmod>2023-11-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/tags/</loc>
+    <loc>https://1eb0hang.github.io/blog/tags/</loc>
     <lastmod>2023-11-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/categories/</loc>
+    <loc>https://1eb0hang.github.io/blog/categories/</loc>
   </url>
 </urlset>
